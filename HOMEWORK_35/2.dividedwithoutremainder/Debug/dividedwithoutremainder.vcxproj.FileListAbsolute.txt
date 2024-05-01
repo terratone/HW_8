@@ -1,0 +1,2 @@
+D:\docs\C++\HAUSAUFGABE\Новая папка (4)\dividedwithoutremainder\Debug\dividedwithoutremainder.exe
+D:\docs\C++\HAUSAUFGABE\Новая папка (4)\2.dividedwithoutremainder\Debug\dividedwithoutremainder.exe
